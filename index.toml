@@ -1,0 +1,16 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "8c83a64281bdde5365d1b488ae6e786873df875dfded979b46d28d224156c068"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "663a0aec780cba204aaeb8e4a057c26101bc8892ccc45836f1c826615765b4ae"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "bde9cf12efb10c56d98a9a096a38cc4d66ee650882e78ecd63e97542cf5ffd92"
+metafile = true

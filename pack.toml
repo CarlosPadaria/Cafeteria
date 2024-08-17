@@ -1,0 +1,13 @@
+name = "Cafeteria"
+author = "Felipe Malicheski"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "11d03859f337e0fd50058cbeb68b05c61857d91a2b49251302e97de96ebae7b0"
+
+[versions]
+forge = "41.1.0"
+minecraft = "1.19"
