@@ -6,6 +6,16 @@ hash = "1c85df49ef6653679a899b14323d0abe11a99b121c2571f236704d98b4beab24"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "14e50c7cd16b4650d3a491f5f31bc00af6be0c290734db9552852ab1de9bc3bb"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "0360f1b7e138c05c7e8a6541e087eac24845212cb8c0565c3a219c6abf6f41c3"
 metafile = true
