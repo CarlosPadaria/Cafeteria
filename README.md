@@ -21,7 +21,3 @@ Este é o repositório oficial do Modpack Cafeteria, para Minecraft 1.19
 - Iris Shaders
 
 
-## Licença
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
